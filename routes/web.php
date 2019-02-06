@@ -12,6 +12,7 @@
 */
 
 // Comment
+// Русский коммент
 
 Route::get('/', function () {
     return view('welcome');
